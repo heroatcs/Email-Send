@@ -1,0 +1,8 @@
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\bin\Debug\emailsand.exe
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\bin\Debug\emailsand.pdb
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\obj\Debug\emailsand.csprojResolveAssemblyReference.cache
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\obj\Debug\emailsand.Form1.resources
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\obj\Debug\emailsand.Properties.Resources.resources
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\obj\Debug\emailsand.csproj.GenerateResource.Cache
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\obj\Debug\emailsand.exe
+C:\Users\mani\Desktop\Bit-Firewall11\emailsand\emailsand\obj\Debug\emailsand.pdb
